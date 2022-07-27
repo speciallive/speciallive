@@ -7,5 +7,10 @@ Tech Stack
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-  
+
+Blog & SNS   
+![Notion]<a href="https://battle-wasp-bf5.notion.site/Programer-eeb80dfceed0443bbb109216c5c23374"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/></a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speciallive)](https://github.com/speciallive/github-readme-stats)   
+
