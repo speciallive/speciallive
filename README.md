@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome&fontSize=20)   
-
 Tech Stack   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
