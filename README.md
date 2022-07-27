@@ -9,7 +9,7 @@ Tech Stack
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
 Blog & SNS   
-![Notion]<a href="https://battle-wasp-bf5.notion.site/Programer-eeb80dfceed0443bbb109216c5c23374"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/></a>
+<a href="https://battle-wasp-bf5.notion.site/Programer-eeb80dfceed0443bbb109216c5c23374"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speciallive)](https://github.com/speciallive/github-readme-stats)   
